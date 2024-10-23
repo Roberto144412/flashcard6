@@ -4,7 +4,6 @@
     --card-back-color: #00F4BF;
 }
 
-
 body{
     background: url('img/bg-desktop.webp');
     font-family: Bai Jamjuree;
@@ -49,6 +48,9 @@ body{
     color: var(--text-color);
 }
 
+.cartao__conteudo__resposta {
+    color: var(--card-back-color);
+}
 
 footer {
     background-color: black;
